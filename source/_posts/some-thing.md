@@ -5,6 +5,7 @@ tags: Just4Fun
 categories: 言叶之庭
 thumbnail: /2018/02/15/some-thing/b77.jpg
 ---
+<img src="/2018/02/15/some-thing/b77.jpg" class="full-image" />
 # 好久不见!你是否想念我了呢?
 #### &nbsp;&nbsp;我有许多话要说......
 <br>
