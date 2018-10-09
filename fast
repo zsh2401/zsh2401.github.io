@@ -1,12 +1,14 @@
 #/bin/bash
-git add .
-git commit -m "$*"
-
 cd themes/next
 
 git add .
 git commit -m "$*"
 
 cd ../../
+
+git add .
+git commit -m "$*"
+
+
 
 git push
