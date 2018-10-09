@@ -1,7 +1,7 @@
 ---
 title: New theme new psychology
 date: 2018-10-09 22:24:55
-tags: Just4Fun 博客维护
+tags: [Just4Fun,博客维护]
 categories: 言叶之庭
 ---
 国庆节终于结束了,我觉得我有必要立马做点什么...
