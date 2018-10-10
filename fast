@@ -1,10 +1,10 @@
 #/bin/bash
-cd themes/next
+#cd themes/next
 
-git add .
-git commit -m "$*"
+#git add .
+#git commit -m "$*"
 
-cd ../../
+#cd ../../
 
 git add .
 git commit -m "$*"
