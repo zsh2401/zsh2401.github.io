@@ -118,10 +118,11 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  about: /about/ || user
+  archives: /archives/ || archive
   tags: /tags/ || tags
   categories: /categories/ || th
-  archives: /archives/ || archive
+  留言板: /messageboard || comment
+  about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -183,17 +184,16 @@ social_icons:
 # Usage: `permalink || title`
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the title and aria-label name.
-#github_banner: https://github.com/yourname || Follow me on GitHub
+github_banner: https://github.com/zsh2401 || Follow me on GitHub
 
 # Blog rolls
-# links_icon: link
+links_icon: link
 links_title: 友情链接
 links_layout: block
 # links_layout: inline
 links:
-  xxwhite的博客: https://xxwhite.com/
- 
-
+  叉叉白博客: https://xxwhite.com/
+  
 # Sidebar Avatar
 avatar:
   # in theme directory(source/images): /images/avatar.gif
