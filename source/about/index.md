@@ -3,26 +3,29 @@ title: about
 date: 2018-10-09 20:54:46
 ---
 <img src="/images/head.jpg">
-# 名-Name
-* 网络常用昵称: zsh2401
-* 英文名: Shunhong Zhang
 
-# 名-Horour
-* [AutumnBox](https://atmb.top)
-  
-# 联
-E-Mail 
+
+<div style="text-align:center">
+
+<h1>欢迎来到zsh2401的博客</h1>
+zsh2401希望,你在浏览本博客时,是有所收获的
+无论是阅读技术文章得到知识,还是与我互动得到社交上的满足
+这都是好的
+
+</div>
+
+
+
+### 联系我
+
 * zsh2401@163.com
 * zsh2401@gmail.com
-  
-IM
 * QQ: zsh2401@163.com
-  
-其它社交网站
 * 百度贴吧: 电浆先行者343
 * 哔哩哔哩: zsh2b01
 
-## 极限竞速地平线4开始菜单视频
+
+### 极限竞速地平线4开始菜单视频
 这是我最爱的竞速游戏...
 别问我为什么要在这种地方放这玩意儿,这就是个性吧?
 

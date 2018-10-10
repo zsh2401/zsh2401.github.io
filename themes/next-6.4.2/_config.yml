@@ -55,8 +55,8 @@ favicon:
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link, and install hexo-generator-feed: `npm install hexo-generator-feed --save`.
 # Set rss to specific value if you have burned your feed already.
-rss:
-# since: 2013
+# rss: true
+  # since: 2013
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
@@ -158,11 +158,12 @@ social:
   GitHub: https://github.com/zsh2401 || github
   Twitter: https://twitter.com/zsh2401 || twitter
   E-Mail: mailto:zsh2401@163.com || envelope
+  Bilibili: https://space.bilibili.com/3061574/#/
   AutumnBox: https://atmb.top || envira
-  #Google: https://plus.google.com/yourname || google
-  
-  # Zhihu: http://www.baidu.com || zhihu
-  #FB Page: https://www.facebook.com/yourname || facebook
+  Weibo: https://weibo.com/zsh2401 || weibo
+  # Google: https://plus.google.com/zsh2401 || google
+  Zhihu: https://www.zhihu.com/people/zhang-shun-hong-86/activities
+  FB Page: https://facebook.com/shunhong.zhang.338 || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
