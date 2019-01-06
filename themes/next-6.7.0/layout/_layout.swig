@@ -47,7 +47,11 @@
           {% endif %}
           <div id="content" class="content">
             {% block content %}{% endblock %}
-            <div>hello</div>
+            <div class="text-center" style="background: white">
+                {{ partial('_partials/footer.swig', {}, {cache: theme.cache.enable}) }}
+                {% include '_third-party/analytics/analytics-with-widget.swig' %}
+                {% block footer %}{% endblock %}
+            </div>
           </div>
           {% include '_partials/comments.swig' %}
         </div>
