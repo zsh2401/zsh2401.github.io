@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 2401的晚秋咖啡
-subtitle: 只是一个简单的博客而已
+title: Late Autumn Coffee
+subtitle: 2401的晚秋咖啡
 description: just a blog
 author: zsh2401
 language: zh-CN
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-6.4.2
+theme: next-6.7.0
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
