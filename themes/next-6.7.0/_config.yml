@@ -538,8 +538,8 @@ changyan:
 # More info available at https://valine.js.org
 valine:
   enable: true # When enable is set to be true, leancloud_visitors is recommended to be closed for the re-initialization problem within different leancloud adk version.
-  appid: SgbNrEUzQb2NjWbDT6M2yQ0B # your leancloud application appid
-  appkey: 98EJBKzTnmY2AMjwsHMhOxkA  # your leancloud application appkey
+  appid:  SgbNrEUzQb2NjWbDT6M2yQ0B-gzGzoHsz # your leancloud application appid
+  appkey: 98EJBKzTnmY2AMjwsHMhOxkA # your leancloud application appkey
   notify: false # mail notifier, See: https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: 说点什么吧,谢谢你... # comment box placeholder
@@ -1043,7 +1043,7 @@ vendors:
   # Example:
   # valine: //cdn.jsdelivr.net/npm/valine@1/dist/Valine.min.js
   # valine: //cdnjs.cloudflare.com/ajax/libs/valine/1.3.4/Valine.min.js
-  valine:
+  valine: https://cdn.jsdelivr.net/npm/valine@1.3.4/dist/Valine.min.js
 
   # gitalk
   # See: https://github.com/gitalk/gitalk
