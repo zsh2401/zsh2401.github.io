@@ -83,9 +83,9 @@ footer:
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
-    enable: true
+    enable: false
     # Version info of NexT after scheme info (vX.X.X).
-    version: true
+    version: false
   # -------------------------------------------------------------
   # Beian icp information for Chinese users. In China, every legal website should have a beian icp in website footer.
   # http://www.miitbeian.gov.cn
@@ -205,12 +205,13 @@ github_banner: https://github.com/zsh2401 || Follow me on GitHub
 
 # Blog rolls
 links_icon: link
-links_title: Links
+links_title: 友链
 links_layout: block
 #links_layout: inline
-#links:
+links:
   #Title: http://example.com
-
+  叉叉白博客: https://xxwhite.com/
+  web1n博客: https://https.vc/
 # Sidebar Avatar
 avatar:
   # in theme directory(source/images): /images/avatar.gif
