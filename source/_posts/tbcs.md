@@ -43,3 +43,7 @@ wget http://soft.vpser.net/lnmp/lnmp1.5.tar.gz -cO lnmp1.5.tar.gz && tar zxf lnm
 自从为了安装[Minecraft Bedrock Sever](https://minecraft.net/en-us/download/server/bedrock/)而重置服务器以来直到今天我才恢复LNMP环境.
 重新配置vhost,让对服务器4396端口的访问指向下载目录,并开启`autoindex`,大功告成,我的拓展模块可以重新上架了!
 {% asset_img dl.png%}
+
+## 欢迎使用
+说了这么多,你想要使用吗?
+欢迎访问[2401免费签到](dream.zsh2401.top:2402),各位大神手下留情,我只是学生,也不玩什么商业竞争,希望大家不要来黑我的服务器TAT
