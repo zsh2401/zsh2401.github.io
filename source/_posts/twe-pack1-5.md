@@ -2,7 +2,7 @@
 title: 流浪地球周边到货 1/5
 date: 2019-02-21 02:08:24
 tags: [流浪地球,闲谈,科幻片,周边,买买买]
-categories: 闲谈
+categories: 流浪地球
 ---
 我可是流浪地球头号粉丝!!
 {% asset_img D725D869BADAB90E824732F68AC68B5F.png%}
