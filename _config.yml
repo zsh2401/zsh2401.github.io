@@ -72,13 +72,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-6.7.0
+theme: next-7.3.0
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.dev.tencent.com/dtid_a6d9595031e5d1d2/zsh2401.top.git
+  repository: git@git.dev.tencent.com:zsh1937/zsh2401.top.git
   branch: master 
 search:
     path: search.xml
