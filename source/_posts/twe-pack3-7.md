@@ -6,7 +6,7 @@ categories: 流浪地球
 ---
 NICE，又一件周边到货啦!
 这次是流浪地球制作手册!
-{% asset_img psb.jpg%}
+{% asset_img psb_m.jpg%}
 <!-- more -->
 说实话,我到快递店取货时,一度以为拿错货了,因为这本手册真的是手册,好小啊!
 
