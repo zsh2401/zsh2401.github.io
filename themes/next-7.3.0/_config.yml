@@ -155,6 +155,7 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   留言板: /messageboard || comment
+  相关应用: /otherapp || window-restore
   about: /about/ || user
   # home: / || home
   # #about: /about/ || user
@@ -345,8 +346,8 @@ wechat_subscriber:
 reward_settings:
   # If true, reward would be displayed in every article by default.
   # You can show or hide reward in a specific article throuth `reward: true | false` in Front-matter.
-  enable: false
-  animation: false
+  enable: true
+  animation: true
   #comment: Donate comment here.
 
 reward:
@@ -357,8 +358,8 @@ reward:
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts
 related_posts:
-  enable: false
-  title: # Custom header, leave empty to use the default one
+  enable: true
+  title: 更多阅读
   display_in_home: false
   params:
     maxCount: 5
@@ -440,19 +441,19 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: normal
+  highlight_theme: night bright
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
-    show_result: false
+    show_result: true
     # Available values: default | flat | mac
-    style:
+    style: default
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: false
-  permalink: https://github.com/yourname
+  enable: true
+  permalink: https://github.com/zsh2401
   title: Follow me on GitHub
 
 
@@ -472,10 +473,10 @@ github_banner:
 font:
   # Use custom fonts families or not.
   # Depended options: `external` and `family`.
-  enable: false
+  enable: true
 
   # Uri of fonts host, e.g. //fonts.googleapis.com (Default).
-  host:
+  host: //fonts.googleapis.com
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -485,7 +486,7 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
+    family: KaiTi
     size:
 
   # Font settings for site title (.site-title).
@@ -508,7 +509,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Microsoft YaHei UI Light;Times New Roman;黑体
 
 
 # ---------------------------------------------------------------
@@ -601,7 +602,7 @@ quicklink:
 # Bookmark Support
 # Dependencies: https://github.com/theme-next/theme-next-bookmark
 bookmark:
-  enable: false
+  enable: true
   # If auto, save the reading position when closing the page or clicking the bookmark-icon.
   # If manual, only save it by clicking the bookmark-icon.
   save: auto
@@ -982,17 +983,17 @@ pace:
 # JavaScript 3D library.
 # Dependencies: https://github.com/theme-next/theme-next-three
 three:
-  enable: false
+  enable: true
   delay: false # Set true to further delay loading
   three_waves: false
-  canvas_lines: false
+  canvas_lines: true
   canvas_sphere: false
 
 # Canvas-nest
 # Dependencies: https://github.com/theme-next/theme-next-canvas-nest
 # For more information: https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   onmobile: true # display on mobile or not
   color: "0,0,255" # RGB values, use `,` to separate
   opacity: 0.5 # the opacity of line: 0~1
@@ -1072,8 +1073,8 @@ vendors:
 
   # Internal version: 1.2.0
   # Example:
-  # reading_progress: //cdn.jsdelivr.net/gh/theme-next/theme-next-reading-progress@1/reading_progress.min.js
-  reading_progress:
+  reading_progress: //cdn.jsdelivr.net/gh/theme-next/theme-next-reading-progress@1/reading_progress.min.js
+  # reading_progress:
 
   # DisqusJS
   # Example:
@@ -1138,14 +1139,14 @@ vendors:
 
   # Internal version: 1.0.0
   # Example:
-  # three: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three.min.js
-  # three_waves: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three-waves.min.js
-  # canvas_lines: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/canvas_lines.min.js
-  # canvas_sphere: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/canvas_sphere.min.js
-  three:
-  three_waves:
-  canvas_lines:
-  canvas_sphere:
+  three: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three.min.js
+  three_waves: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three-waves.min.js
+  canvas_lines: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/canvas_lines.min.js
+  canvas_sphere: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/canvas_sphere.min.js
+  # three:
+  # three_waves:
+  # canvas_lines:
+  # canvas_sphere:
 
   # Internal version: 1.0.0
   # Example:
