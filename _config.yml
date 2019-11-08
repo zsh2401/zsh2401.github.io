@@ -79,7 +79,7 @@ theme: next-7.3.0
 deploy:
   type: git
   repository: git@git.dev.tencent.com:zsh1937/zsh2401.top.git
-  branch: master 
+  branch: coding-pages 
 search:
     path: search.xml
     field: all
