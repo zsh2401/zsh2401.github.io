@@ -78,8 +78,17 @@ theme: next-7.3.0
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@git.dev.tencent.com:zsh1937/zsh2401.top.git
-  branch: coding-pages 
+  repository: git@e.coding.net:studio2401/zsh2401-blog/web.git
+  branch: master
 search:
     path: search.xml
     field: all
+all_minifier: true
+image_minifier:
+  enable: true
+  interlaced: true
+  multipass: true
+  optimizationLevel: 2
+  pngquant: true
+  progressive: true
+  silent: true
