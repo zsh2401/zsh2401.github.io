@@ -3,7 +3,7 @@ title: 留言板
 date: 2018-10-11 06:30:17
 ---
 
-<iframe id="bvideo" src="//player.bilibili.com/player.html?aid=2345583&cid=3662647&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe class="bvideo" src="//player.bilibili.com/player.html?aid=2345583&cid=3662647&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <style>
 .bvideo{width:100%}
