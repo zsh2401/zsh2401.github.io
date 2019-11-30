@@ -83,3 +83,7 @@ deploy:
 search:
     path: search.xml
     field: all
+    
+lazyload:
+  enable: true
+  className: "__lazyload_test__"
