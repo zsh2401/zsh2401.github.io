@@ -26,16 +26,28 @@ zsh2401希望,你在浏览本博客时,是有所收获的
 
 
 
-<iframe id="headVideo" src="//player.bilibili.com/player.html?aid=32838183&cid=57468615&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe class="bvideo" src="//player.bilibili.com/player.html?aid=32838183&cid=57468615&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<style>
+.bvideo{width:100%}
+</style>
+
 <script>
-    window.onresize = resizeVideo;
+    //v0.1
     function resizeVideo(){
-        var newVideoW =  document.getElementById("content").offsetWidth * 1;
-        var newVideoH = newVideoW * 0.66;
-        console.log(newVideoW);
-        document.getElementById("headVideo").width = newVideoW;
-        document.getElementById("headVideo").height = newVideoH;
+        var bvideos = document.getElementsByClassName("bvideo");
+        for(var i =0;i<bvideos.length;i++){
+            var crt = bvideos[i];
+            var w = crt.clientWidth;
+            var newH = w * 0.66;
+            crt.width = w;
+            crt.height = newH;
+        }
     } 
+    window.addEventListener("resize",()=>{
+        resizeVideo();
+    });
     resizeVideo();
 </script>
+
 

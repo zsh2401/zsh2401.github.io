@@ -20,6 +20,7 @@ categories: 基础技术
 * imagemin-optipng(optipng-bin)
 * imagemin-pngquant(pngquant-bin)
 * imagemin-svgo(svgo-bin)
+
 似乎，这几个包也只是对native程序的封装而已？   
 阅读`gifsicle-bin`的源代码后，我有了更清晰的认知:   
 这几个包在安装时执行`lib/install.js`从github下载二进制可执行文件，由于众所周知的原因，这变得异常缓慢...   
