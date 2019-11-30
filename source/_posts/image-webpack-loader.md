@@ -1,7 +1,7 @@
 ---
 title: image-webpack-loader安装慢的解决方案
 date: 2019-11-30 04:10:04
-tags: [webpack,typescript,性能优化,image-webpack-loader,]
+tags: [webpack,typescript,性能优化,image-webpack-loader]
 categories: 基础技术
 ---
 经过搜索,我选择使用[image-webpack-loader](https://github.com/tcoopman/image-webpack-loader)对自己的web应用进行优化。然而，安装实在是太慢了，这里记录一下我的解决方案。   
