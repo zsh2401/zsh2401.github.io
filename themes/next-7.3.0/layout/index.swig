@@ -10,9 +10,7 @@
 {% block content %}
   <section id="posts" class="posts-expand">
     {%- for post in page.posts %}
-        {% if post.notshow != true %}
-            {{ partial('_macro/post.swig', {is_index: true}) }}
-        {% endif %}
+        {{ partial('_macro/post.swig', {is_index: true}) }}
     {%- endfor %}
   </section>
 
