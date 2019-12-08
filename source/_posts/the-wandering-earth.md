@@ -1,8 +1,8 @@
 ---
 title: <编辑中>The Wandring Earth
 date: 2019-02-21 01:22:46
-tags: [追忆,闲谈]
-categories: 流浪地球
+tags: [追忆,闲谈,流浪地球]
+categories: 电影
 ---
 从2019年2月5日起的12天里,我经历了许多看似稀松平常的事,但我不愿忘记这些.
 {% asset_img 1000.jpg%}

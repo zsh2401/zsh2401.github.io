@@ -2,7 +2,7 @@
 title: Coding团队版使用体验:更好的Pages服务
 date: 2019-11-30 01:42:46
 tags: [前端,静态页面,coding,代码托管]
-categories: 基础技术
+categories: 前端
 ---
 
 在文章[多站点重新部署](/2019/08/11/change-deploy/)中，我将位于`github-pages`的静态站点迁移到了`coding-pages`，一段时间以来，服务稳定可靠的,我也比较省心。

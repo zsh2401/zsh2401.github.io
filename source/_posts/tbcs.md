@@ -2,7 +2,7 @@
 title: 2401免费云签到上线
 date: 2019-01-31 20:17:21
 tags: [php,lnmp,Just4Fun]
-categories: 基础技术
+categories: 后端
 ---
 {% asset_img head.png%}
 自从前几天在我的学生机上搭建了[Minecraft Bedrock Sever](https://minecraft.net/en-us/download/server/bedrock/)后,我就一直想再搞点什么东西,榨干我的机器性能.

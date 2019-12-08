@@ -1,8 +1,8 @@
 ---
 title: 多站点重新部署
 date: 2019-08-11 13:56:38
-tags: [博客维护]
-categories: 基础技术
+tags: [博客维护,coding-pages,gihub,gh-pages,静态页面]
+categories: 前端
 ---
 我在Github Pages上部署了多个静态站点,但由于不可抗力,访问速度感人。
 现在，有必要着手于解决这个问题。
