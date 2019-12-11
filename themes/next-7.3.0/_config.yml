@@ -83,7 +83,7 @@ footer:
   # Beian ICP information for Chinese users. See: http://www.beian.miit.gov.cn
   beian:
     enable: true
-    icp: 滇ICP备案
+    icp: 滇ICP备19011321号
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
