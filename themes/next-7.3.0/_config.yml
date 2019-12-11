@@ -155,7 +155,7 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   留言板: /messageboard || comment
-  相关应用: /otherapp || window-restore
+  相关应用: /relative-apps || window-restore
   about: /about/ || user
   # home: / || home
   # #about: /about/ || user
