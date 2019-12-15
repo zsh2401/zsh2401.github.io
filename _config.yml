@@ -96,3 +96,10 @@ hide_posts:
   public_generators: []
   # 为隐藏的文章添加 noindex meta 标签，阻止搜索引擎收录
   noindex: true
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: false
+  total_time: false
+  exclude_codeblock: false
