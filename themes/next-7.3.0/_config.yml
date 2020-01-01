@@ -155,7 +155,7 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   留言板: /messageboard || comment
-  相关应用: /relative-apps || window-restore
+  相关应用: /2020/01/01/projects/ || window-restore
   about: /about/ || user
   # home: / || home
   # #about: /about/ || user
@@ -198,13 +198,14 @@ site_state: true
 # Value after `||` delimiter is the name of Font Awesome icon. If icon (with or without delimiter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/zsh2401 || github
-  Twitter: https://twitter.com/zsh2401 || twitter
-  E-Mail: mailto:zsh2401@163.com || envelope
-  Bilibili: https://space.bilibili.com/3061574/#/
-  AutumnBox: https://atmb.top || envira
-  Weibo: https://weibo.com/zsh2401 || weibo
-  #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  推特: https://twitter.com/zsh2401 || twitter
+  电子邮件: mailto:zsh2401@163.com || envelope
+  哔哩哔哩: https://space.bilibili.com/3061574/#/
+  微博: https://weibo.com/zsh2401 || weibo
+  秋之盒: https://atmb.top || envira
+  免费云签: https://tb.zsh2401.top || cloud
+  猫爪子: https://cp.zsh2401.top || heart
+
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -347,8 +348,8 @@ reward_settings:
   # If true, reward would be displayed in every article by default.
   # You can show or hide reward in a specific article throuth `reward: true | false` in Front-matter.
   enable: true
-  animation: false
-  #comment: Donate comment here.
+  animation: true
+  comment: 赠人玫瑰，手留余香
 
 reward:
   wechatpay: /images/wechatpay.jpg
