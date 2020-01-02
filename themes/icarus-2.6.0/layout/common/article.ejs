@@ -48,7 +48,9 @@
         <div class="content">
             <%- index && post.excerpt ? post.excerpt : post.content %>
         </div>
-        <div class="post-copyright">
+
+        <% if (!post.excerpt) { %>
+            <div class="post-copyright">
             <p><strong>作者: </strong> zsh2401 <br/>
             <strong>版权声明:</strong> 本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！
             </p>
@@ -62,6 +64,8 @@
                 list-style: none;
             }    
         </style>
+        <% } %>
+       
         <% if (!index && post.tags && post.tags.length) { %>
         <div class="level is-size-7 is-uppercase">
             <div class="level-start">
