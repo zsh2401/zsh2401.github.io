@@ -3,9 +3,8 @@ title: 好久不见!
 date: 2018-02-15 03:51:39
 tags: Just4Fun
 categories: 言叶之庭
-thumbnail: /2018/02/15/some-thing/b77.jpg
+thumbnail: /post/long-time-no-see/b77.jpg
 ---
-{% asset_img b77.jpg %}
 好久不见!你是否想念我了呢?   
 <!-- more -->
 

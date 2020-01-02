@@ -3,10 +3,10 @@ title: 流浪地球周边到货 3/7
 date: 2019-03-03 17:39:00
 tags: [流浪地球,闲谈,科幻片,周边,买买买]
 categories: 电影
+thumbnail: /post/twe-pack3-7/psb_m.jpg
 ---
 NICE，又一件周边到货啦!
 这次是流浪地球制作手册!
-{% asset_img psb_m.jpg%}
 <!-- more -->
 说实话,我到快递店取货时,一度以为拿错货了,因为这本手册真的是手册,好小啊!
 

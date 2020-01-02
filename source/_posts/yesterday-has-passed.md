@@ -3,8 +3,8 @@ title: 昨天已经过去,明天还要继续
 date: 2019-01-30 22:12:00
 tags: [言叶之庭]
 categories: 言叶之庭
+thumbnail: /post/yesterday-has-passed/head.jpg
 ---
-{% asset_img head.jpg%}
 今天对我来说确实五味陈杂,为什么会这样呢?我开始怀疑我的人生价值.
 <!-- more -->
 秋之盒在酷安的热度仍然无法上升,而隔壁搞机工具箱仍然处于随便一篇动态就上百赞和评论的状态,我心中感到不公平.

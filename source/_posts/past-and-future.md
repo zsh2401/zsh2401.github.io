@@ -4,17 +4,14 @@ date: 2019-11-29 19:37:33
 tags:  [全栈,编程,人生感悟,探索,悔恨,新的未来]
 hidden: false
 categories: 言叶之庭
+thumbnail: /post/past-and-future/cover.png
 ---
-{%asset_img cover.png%}
-
-<!-- more -->
 撰写: `Lee Yin's 2401`    
 审校: `2401's Lee Yin`    
 版本: V0.2-草稿
-
 注意:
 您目前阅读的是草稿版本，可能存在大量语句不通顺，重复啰嗦的情况，这将在后面的版本修正，另外，您也可在文章末尾提出对本文的修改建议。带来不便，深感抱歉！
-
+<!-- more -->
 ------
 
 ### 选择

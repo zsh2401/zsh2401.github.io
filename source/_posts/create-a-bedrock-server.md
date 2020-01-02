@@ -2,11 +2,12 @@
 title: 搭建BedRock服务器的曲折道路
 date: 2019-01-26 21:13:49
 tags: [c++,电子游戏,Minecraft]
+thumbnail: /post/create-a-bedrock-server/thumbnail.jpg
 ---
-{% asset_img Minecraft_logo.png%}
-这个寒假,我又想玩Minecraft了...于是决定再开一周目Minecraft服务器,不过与之前不同的是,我决定搭建基岩版服务器[Minecraft Bedrock Sever](https://minecraft.net/en-us/download/server/bedrock/),而不是Java版服务器.
-
+这个寒假,我又想玩Minecraft了...
 <!-- more -->
+{% asset_img Minecraft_logo.png%}
+唉!再开一周目Minecraft服务器,不过与之前不同的是,我决定搭建基岩版服务器[Minecraft Bedrock Sever](https://minecraft.net/en-us/download/server/bedrock/),而不是Java版服务器.
 ## 为什么选择基岩版而不是 Java 版?
 基岩版支持跨平台,你在床上用手机玩,他在桌前用电脑玩,我在沙发上用 XBOX 玩,而且是同服联机
 * 基岩版优化远超 Java 版,帧数高

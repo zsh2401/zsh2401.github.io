@@ -1,10 +1,9 @@
 ---
 title: 关于
 date: 2018-10-09 20:54:46
+comment: false
 ---
-<img src="/images/head.jpg">
-
-
+<!-- <img style="display:block;margin-left:auto;margin-right:auto" src="/images/head.jpg"> -->
 <div style="text-align:center">
 
 <h1>欢迎来到zsh2401的博客</h1>
